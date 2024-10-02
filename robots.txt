@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://brochutr.github.io/sitemap.html.gz
+Sitemap: https://brochutr.github.io/app/sitemap.html.gz
+Sitemap: https://brochutr.github.io/assets/sitemap.html.gz
+Sitemap: https://brochutr.github.io/css/sitemap.html.gz
+Sitemap: https://brochutr.github.io/data/sitemap.html.gz
+Sitemap: https://brochutr.github.io/includes/sitemap.html.gz
+Sitemap: https://brochutr.github.io/item/sitemap.html.gz
+Sitemap: https://brochutr.github.io/src/sitemap.html.gz
